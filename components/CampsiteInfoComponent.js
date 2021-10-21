@@ -106,7 +106,7 @@ function RenderCampsite(props) {
                             onPress={() => props.onShowModal()}
                         />
                          <Icon
-                            name={'share'}
+                            name='share'
                             type='font-awesome'
                             color='#5637DD'
                             raised
